@@ -21,8 +21,8 @@
 # 1. Baixar o script direto do repositório
 curl -O https://raw.githubusercontent.com/kaique1901/impressora-glorysoft/main/setup-conferencia.sh
 
-# 2. Torna o arquivo executável 
-chmod +x bash setup-conferencia.sh
+# 2. Torna o arquivo executável
+chmod +x setup-conferencia.sh
 
 # 3. Executar (pede senha do VNC durante a instalação)
 sudo bash setup-conferencia.sh cifal
